@@ -2,6 +2,7 @@
 
 ## Overview
 This project analyzes retail sales performance for salespeople, products, and across different stores using Excel.
+All dashboard outputs are formula-driven or sourced from Pivot Tables. No dashboard values are hard-coded.
 
 ## Objectives
 - Build a dashboard for key business metrics
