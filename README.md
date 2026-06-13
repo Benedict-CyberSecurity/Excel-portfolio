@@ -1,29 +1,40 @@
-# Project 1 — Retail Sales Dashboard
+# Excel-portfolio
+Excel analytics portfolio documenting projects in business intelligence, fraud detection, and cybercrime analysis.
 
-## Overview
-This project analyzes retail sales performance for salespeople, products, and across different stores using Excel.
-All dashboard outputs are formula-driven or sourced from Pivot Tables. No dashboard values are hard-coded.
+This repository documents my progression in data analysis and cybersecurity through structured, self-directed projects.
 
-## Objectives
-- Build a dashboard for key business metrics
-- Analyze returns
+## Background
 
-## Dataset
-Product Sales by Region Dataset by Excelx.com
+I am currently working as an ESL teacher for business professionals while completing professional certificates in:
+- Excel for Business (Macquarie University – Coursera)
+- Google Cybersecurity Certificate
 
-## Tools Used
-- Microsoft Excel, Visual Studio Code, Markdown
-- PivotTables and PivotCharts
-- XLOOKUP
-- SUMIFS
-- COUNTIFS
-- Conditional formatting
-- Data Validation
+## Focus - Excel & Cybersecurity 
 
-## What I learned
-- It is critical to organize and understand your data first and be very clear on what questions you want to answer on the dashboard before jumping into cereating the dashboard
-- I should have broken my calculations into two types - informational and analytical
-- I wasted a lot of time repairing things which taught me a lot about troubleshooting!
+This portfolio combines two areas of development:
+- Excel-based data analysis and visualization
+- Cybersecurity fundamentals and investigative thinking
 
-## Status
-Completed
+The goal is to develop original, self-directed analytical projects.
+
+## Projects
+
+Projects in this repository are progressively structured, starting with foundational Excel analysis and moving toward more complex investigative and cybersecurity-related case studies.
+
+1. Retail Sales Dashboard
+2. Financial Risk Model
+3. Supply Chain Analysis
+4. Fraud Detection Investigation
+5. Cybercrime Case Study (Capstone Project)
+
+## Approach
+
+Each project emphasizes:
+- independent problem-solving
+- structured documentation
+- iterative learning through mistakes and refinement
+- clear communication of analytical findings
+
+## Note
+
+This is a learning-focused portfolio. All work reflects an ongoing development process.
