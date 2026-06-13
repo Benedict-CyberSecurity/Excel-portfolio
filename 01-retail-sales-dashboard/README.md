@@ -21,9 +21,9 @@ Product Sales by Region Dataset by Excelx.com
 - Data Validation
 
 ## What I learned
-- It is critical to organize and understand your data first and be very clear on what questions you want to answer on the dashboard before jumping into cereating the dashboard
+- It is critical to organize and understand your data first and be very clear on what questions you want to answer on the dashboard before jumping into creating the dashboard
 - I should have broken my calculations into two types - informational and analytical
-- I wasted a lot of time repairing things which taught me a lot about troubleshooting!
+- I wasted a lot of time repairing things which not only taught me a lot about troubleshooting, it gave me a better appreciation for how to think about the relationshipships and connections in the data.
 
 ## Status
 Completed
