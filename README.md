@@ -22,7 +22,7 @@ The goal is to develop original, self-directed analytical projects.
 Projects in this repository are progressively structured, starting with foundational Excel analysis and moving toward more complex investigative and cybersecurity-related case studies.
 
 1. Retail Sales Dashboard
-2. Financial Risk Model
+2. Phishing email Analysis
 3. Supply Chain Analysis
 4. Fraud Detection Investigation
 5. Cybercrime Case Study (Capstone Project)
